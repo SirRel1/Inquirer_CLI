@@ -1,13 +1,9 @@
-# Inquirer CLI
-
+# E-Commerce Database System
 ## Description
-
-To help developers create a professional README!
-
+An E-Commerce back end that utilizes C.R.U.D. methods to manipulate, store and organize products.
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -19,34 +15,28 @@ To help developers create a professional README!
 ## Installation
 
 To install necessary dependencies use the following command:
-
 ```
 npm i
 ```
+## Usage 
+```
+npm start
+```
+Video Demo:
+[Video Demonstration](https://drive.google.com/file/d/1aGgXZqMSke0a-EXT3zCncm3080TtxUTE/view?usp=sharing)
 
-## Usage
-
-Screenshot:
-![InqPg_1](https://user-images.githubusercontent.com/89208706/148442184-59597752-ab6f-4dfa-b29c-aef3b9fbcb36.png)
-README Generator Walk Thru: [Video](https://drive.google.com/file/d/10t8xHpuFYMcRwb9aqiK_xHkrVgtqj3-D/view?usp=sharing)
-
-## License
-
-This project is licensed under MIT
+## License This project is licensed under MIT
 
 ## Contribution
-
-Spread the word!
+Spread the word; submit issues.
 
 ## Test
-
 To run test, use the following command:
+```
+none
+```
 
-```
-npm test
-```
 
 ## Questions
-
-If you have any questions about this project, open an issue or contact me at [dajuanhudson33](dajuanhudson33@gmail.com).
+If you have any questions about this project, open an issue or contact me at [thudson5731@gmail.com](dajuanhudson33@gmail.com). 
 Check out more of my work at [SirRel1](https://github.com/SirRel1)
